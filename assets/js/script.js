@@ -71,10 +71,10 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Computer Science Student", "from Chitkara University",],
+    strings: ["Developer 👨‍💻", "Quick Learner ⚡",],
     loop: true,
     typeSpeed: 55,
-    backSpeed: 27,
+    backSpeed: 28,
     backDelay: 500,
 });
 // <!-- typed js effect ends -->
